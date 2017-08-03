@@ -3,8 +3,8 @@ Creative Commons Attribution-ShareAlike 3.0 Unported License
 
 (Under development)
 
-
-The model is designed in sketchup. If you are interested in helping with the blueprints development, please contact me 
+I would like to develope this project in a similar philosophie that wikihouse has been designed. https://wikihouse.cc/
+The model is at the moment modeled 3d in sketchup. If you are interested in helping with the development, please contact me 
 
 prototype construction photos:
 http://cangelopoulosarchi.wixsite.com/design/micro-farm-landscape-design
